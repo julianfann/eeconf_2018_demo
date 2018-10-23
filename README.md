@@ -12,3 +12,7 @@ This is the repo of the demo done during the talk.
 username: `admin`
 
 password: `a6fFsq3sgSy7TXU`
+
+### Working with the demo
+
+Change the `_article_1` embed in `/system/user/templates/default_site/site.group/index.html` and `/system/user/templates/default_site/blog.group/index.html` to `_article_2`, `_article_3`, or `_article_4` to progressively enable features that show off the addons.
