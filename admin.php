@@ -7,6 +7,13 @@
  * @license   https://expressionengine.com/license
  */
 
+// Bootstrap composer autoloader
+require __DIR__.'/vendor/autoload.php';
+
+// Load environment variables
+$dotenv = new Dotenv\Dotenv(__DIR__);
+$dotenv->load();
+
 /*
  * --------------------------------------------------------------------
  *  System Path
@@ -59,7 +66,7 @@
  * Enable it only if you have a good reason to.
  *
  */
-	$debug = 0;
+	$debug = getenv('DEBUG_MODE');
 
 /*
  * --------------------------------------------------------------------

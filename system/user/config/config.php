@@ -1,5 +1,9 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+$config['app_version'] = '4.3.6';
+$config['encryption_key'] = '93fa56ae5468efd189ed03c9782a185dd8c7910f';
+$config['session_crypt_key'] = 'f898d7ef73d734fafdda0516b98d566ce8d9acf6';
+
 $protocol = "https://";
 $base_url                       = $protocol . $_SERVER['HTTP_HOST'];
 $base_path                      = $_SERVER['DOCUMENT_ROOT'];
@@ -18,19 +22,13 @@ $config['theme_folder_url']     = $base_url . "/themes/";
 
 $config['is_system_on'] = 'y';
 $config['multiple_sites_enabled'] = 'n';
-// ExpressionEngine Config Items
-// Find more configs and overrides at
-// https://docs.expressionengine.com/latest/general/system_configuration_overrides.html
 
-$config['app_version'] = '4.3.6';
-$config['encryption_key'] = '93fa56ae5468efd189ed03c9782a185dd8c7910f';
-$config['session_crypt_key'] = 'f898d7ef73d734fafdda0516b98d566ce8d9acf6';
 $config['database'] = array(
 	'expressionengine' => array(
-		'hostname' => 'mysql',
-		'database' => 'eeconf',
-		'username' => 'root',
-		'password' => 'root',
+        'hostname' => getenv('DB_HOST'),
+        'password' => getenv('DB_PASS'),
+        'database' => getenv('DB_DATABASE'),
+        'username' => getenv('DB_USER'),
 		'dbprefix' => 'exp_',
 		'char_set' => 'utf8mb4',
 		'dbcollat' => 'utf8mb4_unicode_ci',
@@ -42,5 +40,3 @@ $config['trunk'] = [
     'length' => 600,
     'ellipses' => true
 ];
-
-// EOF
