@@ -1,0 +1,15 @@
+{layout="site/_layout"}
+
+{if segment_2 == ''}{redirect="{site_url}"}{/if}
+
+{exp:channel:entries
+    channel="blog"
+    limit="1"
+}
+    {layout:set name='title'}{title} | {site_name}{/layout:set}
+
+    {embed="blog/_article_1"
+        single="yes"
+        entry_id="{entry_id}"
+    }
+{/exp:channel:entries}

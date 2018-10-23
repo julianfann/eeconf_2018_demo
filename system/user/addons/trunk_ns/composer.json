@@ -1,0 +1,6 @@
+{
+    "name": "TrunkNs",
+    "require": {
+        "urodoz/truncate-html": "@stable"
+    }
+}

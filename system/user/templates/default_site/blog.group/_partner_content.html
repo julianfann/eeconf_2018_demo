@@ -1,0 +1,31 @@
+<div class="blog_article__partner_content">
+
+    <h4 class="blog_article__partner_content__headline">Partner Content</h4>
+
+    <div class="blog_article__partner_content__items">
+
+        {exp:partner_content:fetch}
+
+        <div class="blog_article__partner_content__item">
+
+            <div class="blog_article__partner_content__item__image">
+                <a href="{url}" target="_blank"><img src="{image}" alt=""></a>
+            </div>
+
+            <h5 class="blog_article__partner_content__item__title"><a href="{url}">{title}</a></h5>
+
+            <h6 class="blog_article__partner_content__item__site_name"><a href="{partner_site_url}" target="_blank">{partner_site_name}</a></h6>
+
+            <div class="blog_article__partner_content__excerpt">
+                {excerpt}
+            </div>
+
+            <a href="{url}" class="blog_article__partner_content__read_more" target="_blank">Read Article</a>
+
+        </div>
+
+        {/exp:partner_content:fetch}
+
+    </div>
+
+</div>

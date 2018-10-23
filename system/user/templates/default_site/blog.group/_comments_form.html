@@ -1,0 +1,20 @@
+{exp:hot_comments:form entry_id="{embed:entry_id}" title="{embed:title}"}
+    {exp:formgrab:form
+    name="{form_name}"
+    title="{form_title}"
+    }
+        <div class="form-group">
+            <input name="name" type="text" class="form-control" id="name" placeholder="Your name" required>
+        </div>
+        <div class="form-group">
+            <input name="email" type="email" class="form-control" id="email" placeholder="Your email address" required>
+        </div>
+        <div class="form-group">
+            <textarea name="message" class="form-control" id="message" rows="6" placeholder="Your comment" required></textarea>
+        </div>
+        <div class="submit">
+            <button type="submit" class="btn btn-primary">Post</button>
+        </div>
+
+    {/exp:formgrab:form}
+{/exp:hot_comments:form}

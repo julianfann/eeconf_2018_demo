@@ -1,0 +1,1145 @@
+a:3:{s:4:"time";i:1540298434;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:105:"
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-09-14T18:20:18+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:31:"Copyright (c) 2018, Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"uri";s:28:"http://expressionengine.com/";s:7:"version";s:5:"4.3.4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"Version 3 End-of-life Reminder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:64:"https://expressionengine.com/blog/version-3-end-of-life-reminder";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:64:"https://expressionengine.com/blog/version-3-end-of-life-reminder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-09-14T18:14:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-09-14T18:20:18+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:871:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/3-retired-blog-news@2x.png" alt="ExpressionEngine 3 Retirement"></figure>
+
+<p>ExpressionEngine 3 is entering the tail end of its support life, and is set to retire on December 14, 2018. Once retired, it will no longer receives bug fixes or security patches. You can read more about our end-of-life policy for legacy software on our <a href="https://expressionengine.createsend1.com/t/r-l-jjdljtc-l-y/">version support page</a>.</p>
+
+<p>In celebration of its retirement, all ExpressionEngine upgrades are currently <strong>10% off</strong> until next Friday, September 21st! Upgrade today and enjoy all the <a href="https://expressionengine.com/whats-new">great new features in v4</a>.</p>
+
+<p><a href="https://expressionengine.com/store/purchases">Click here to view your eligible licenses</a>!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 14 Sep 2018 18:14:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:861:"<figure><img src="https://expressionengine.com/asset/img/blog/3-retired-blog-news@2x.png" alt="ExpressionEngine 3 Retirement"></figure>
+
+<p>ExpressionEngine 3 is entering the tail end of its support life, and is set to retire on December 14, 2018. Once retired, it will no longer receives bug fixes or security patches. You can read more about our end-of-life policy for legacy software on our <a href="https://expressionengine.createsend1.com/t/r-l-jjdljtc-l-y/">version support page</a>.</p>
+
+<p>In celebration of its retirement, all ExpressionEngine upgrades are currently <strong>10% off</strong> until next Friday, September 21st! Upgrade today and enjoy all the <a href="https://expressionengine.com/whats-new">great new features in v4</a>.</p>
+
+<p><a href="https://expressionengine.com/store/purchases">Click here to view your eligible licenses</a>!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:1;a:6:{s:4:"data";s:140:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:32:"EE Conf 2018 Workshops and Talks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:66:"https://expressionengine.com/blog/ee-conf-2018-workshops-and-talks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:66:"https://expressionengine.com/blog/ee-conf-2018-workshops-and-talks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-20T13:10:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-20T00:30:37+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:9:"Education";s:6:"scheme";s:52:"https://expressionengine.com/blog/category/education";s:5:"label";s:9:"Education";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3851:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/eeconf-2018-blog-news@2x.png" alt="EE Conf 2018 EllisLab Speakers"></figure>
+
+<p>We&#8217;re getting super excited about <a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">this year&#8217;s ExpressionEngine conference</a>. This year we are supporting the community-owned conference by presenting two workshops and a talk!</p>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_96919.png" alt="Kevin Cupp">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Kevin Cupp</h2>
+        <p><b>Docker Workshop</b></p>
+        <p>Kevin is one of our Senior Software Engineers. He&#8217;s played a big role in configuring our automated testing and build environments, and is all about some Docker.</p>
+        <p>You’ve probably heard about Docker, but what is it? How does it work? Kevin is co-presenting with Nick Johnson from <a href="http://reusserdesign.com" rel="external">Reusser Design</a>, and they&#8217;ll cover all the basics and show you how you can stop fighting your development environment and have one that just works.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_2048.png" alt="Robin Sowell">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Robin Sowell</h2>
+        <p><b>Fluid Fields Workshop</b></p>
+        <p>Our Development Liaison and unofficial Support Queen, Robin is back for another eye-opening workshop that will supercharge your ExpressionEngine development. At last year&#8217;s conference she showed you the ins and outs of using Template Layouts effectively.</p>
+        <p>This year, Robin will pull the curtain back on Fluid Fields, one of ExpressionEngine 4&#8217;s headlining features. She&#8217;ll show you the basics, the advanced, and even some cool tricks you never thought of to give content authors the ultimate flexibility and power, without compromising the site design or the editing experience.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_64289.jpg" alt="James Mathias">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">James Mathias</h2>
+        <p><b>User Experience Talk</b></p>
+        <p>James is our Chief Creative Officer and is a big part of the extensive improvements in usability made in the last two major versions of ExpressionEngine. He&#8217;s generally three steps ahead of us, and is already cooking up innovations for the next major version.</p>
+        <p>In his talk, James will answer the question that a lot of designers hear: &#8220;What are you thinking?!?&#8221;. He&#8217;ll walk you through his thought process, work flow, and techniques for applying UX to the ExpressionEngine control panel. James will also touch on what UX is to him, what it means for ExpressionEngine, and how he applies his methodology to the product, its marketing and more.</p>
+    </div>
+</div>
+
+<h2>And great topics from the ExpressionEngine community and&nbsp;beyond!</h2>
+
+<p>Curing Imposter Syndrome, managing projects, template strategy, A/B testing, building your agency, selling your favorite CMS ExpressionEngine in competitive situations, and much more! A diverse panel of speakers and business/dev tracks mean something interesting for you every hour of all three days.</p>
+
+<p><a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">Get your tickets now</a> and don&#8217;t miss out, we&#8217;ll see you there!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 20 Jul 2018 13:10:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3841:"<figure><img src="https://expressionengine.com/asset/img/blog/eeconf-2018-blog-news@2x.png" alt="EE Conf 2018 EllisLab Speakers"></figure>
+
+<p>We&#8217;re getting super excited about <a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">this year&#8217;s ExpressionEngine conference</a>. This year we are supporting the community-owned conference by presenting two workshops and a talk!</p>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_96919.png" alt="Kevin Cupp">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Kevin Cupp</h2>
+        <p><b>Docker Workshop</b></p>
+        <p>Kevin is one of our Senior Software Engineers. He&#8217;s played a big role in configuring our automated testing and build environments, and is all about some Docker.</p>
+        <p>You’ve probably heard about Docker, but what is it? How does it work? Kevin is co-presenting with Nick Johnson from <a href="http://reusserdesign.com" rel="external">Reusser Design</a>, and they&#8217;ll cover all the basics and show you how you can stop fighting your development environment and have one that just works.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_2048.png" alt="Robin Sowell">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Robin Sowell</h2>
+        <p><b>Fluid Fields Workshop</b></p>
+        <p>Our Development Liaison and unofficial Support Queen, Robin is back for another eye-opening workshop that will supercharge your ExpressionEngine development. At last year&#8217;s conference she showed you the ins and outs of using Template Layouts effectively.</p>
+        <p>This year, Robin will pull the curtain back on Fluid Fields, one of ExpressionEngine 4&#8217;s headlining features. She&#8217;ll show you the basics, the advanced, and even some cool tricks you never thought of to give content authors the ultimate flexibility and power, without compromising the site design or the editing experience.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_64289.jpg" alt="James Mathias">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">James Mathias</h2>
+        <p><b>User Experience Talk</b></p>
+        <p>James is our Chief Creative Officer and is a big part of the extensive improvements in usability made in the last two major versions of ExpressionEngine. He&#8217;s generally three steps ahead of us, and is already cooking up innovations for the next major version.</p>
+        <p>In his talk, James will answer the question that a lot of designers hear: &#8220;What are you thinking?!?&#8221;. He&#8217;ll walk you through his thought process, work flow, and techniques for applying UX to the ExpressionEngine control panel. James will also touch on what UX is to him, what it means for ExpressionEngine, and how he applies his methodology to the product, its marketing and more.</p>
+    </div>
+</div>
+
+<h2>And great topics from the ExpressionEngine community and&nbsp;beyond!</h2>
+
+<p>Curing Imposter Syndrome, managing projects, template strategy, A/B testing, building your agency, selling your favorite CMS ExpressionEngine in competitive situations, and much more! A diverse panel of speakers and business/dev tracks mean something interesting for you every hour of all three days.</p>
+
+<p><a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">Get your tickets now</a> and don&#8217;t miss out, we&#8217;ll see you there!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:2;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"Prime Day Deals are Here!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:58:"https://expressionengine.com/blog/prime-day-deals-are-here";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:58:"https://expressionengine.com/blog/prime-day-deals-are-here";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-16T18:50:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-16T17:58:42+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1028:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/prime-sale-blog-news_2x.png" alt="Prime Day Sale"></figure>
+
+<p>So we don&#8217;t really understand why, but there is apparently a holiday going on from Noon PST through midnight tomorrow in honor of prime numbers. We hate feeling left out, so from now until tomorrow night ONLY, we have repriced ExpressionEngine using only prime numbers:</p>
+
+<ul>
+<li>ExpressionEngine 4: <del>$299</del> <strong>$271</strong>
+
+<ul>
+<li>Additional Sites: <del>$199</del> <strong>$179/ea</strong></li>
+</ul></li>
+<li>Upgrade from ExpressionEngine 3: <del>$99</del> <strong>$89</strong>
+
+<ul>
+<li>Upgrade from ExpressionEngine 2 to 3: <del>$149</del> <strong>$131</strong></li>
+<li>That means you save <strong>$79</strong> total if you then leap to v4!</li>
+</ul></li>
+</ul>
+
+<p>Don&#8217;t delay, our celebration of prime numbers ends in only 36 hours! Wait&#8230; shouldn&#8217;t that be like 37 hours? Really don&#8217;t understand how this holiday works, oh well!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 16 Jul 2018 18:50:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1018:"<figure><img src="https://expressionengine.com/asset/img/blog/prime-sale-blog-news_2x.png" alt="Prime Day Sale"></figure>
+
+<p>So we don&#8217;t really understand why, but there is apparently a holiday going on from Noon PST through midnight tomorrow in honor of prime numbers. We hate feeling left out, so from now until tomorrow night ONLY, we have repriced ExpressionEngine using only prime numbers:</p>
+
+<ul>
+<li>ExpressionEngine 4: <del>$299</del> <strong>$271</strong>
+
+<ul>
+<li>Additional Sites: <del>$199</del> <strong>$179/ea</strong></li>
+</ul></li>
+<li>Upgrade from ExpressionEngine 3: <del>$99</del> <strong>$89</strong>
+
+<ul>
+<li>Upgrade from ExpressionEngine 2 to 3: <del>$149</del> <strong>$131</strong></li>
+<li>That means you save <strong>$79</strong> total if you then leap to v4!</li>
+</ul></li>
+</ul>
+
+<p>Don&#8217;t delay, our celebration of prime numbers ends in only 36 hours! Wait&#8230; shouldn&#8217;t that be like 37 hours? Really don&#8217;t understand how this holiday works, oh well!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:3;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"ExpressionEngine 4.3: The EU Made Me Do It";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:75:"https://expressionengine.com/blog/expressionengine-4.3-the-eu-made-me-do-it";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"https://expressionengine.com/blog/expressionengine-4.3-the-eu-made-me-do-it";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-05-25T15:39:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-05-25T15:50:06+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:25:"robin.sowell@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:7296:"
+				<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.3-announce-blog-news@2x_.png" alt="Welcome to 4.2">
+</figure>
+
+<p>Tis the season for updated privacy notifications, as websites scramble to comply with the European Union&#8217;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (<abbr title="General Data Protection Regulation">GDPR</abbr>), which goes into effect May 25th, 2018. Since the regulation applies to any entity processing the personal data of EU citizens, ignoring it really isn&#8217;t a good option. Upgrading to ExpressionEngine v4.3 is.</p>
+
+<p>ExpressionEngine v4.3 brings a comprehensive set of tools that make it the go-to CMS for building sites that take user privacy concerns seriously. It handles the heavy lifting, making it easy for designers and third party developers to create <abbr title="General Data Protection Regulation">GDPR</abbr> compliant websites.</p>
+
+<h2>Consent Manager</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr> is all about transparency and the need to obtain consent before processing personal data.  The new Consent Manager allows users to create and manage any requests for consent that they may need.  Have a Terms of Service? Create a consent request for it. Offering email sign-ups? Consent request.  Want to use targeted ad tracking? You know what you need to do.</p>
+
+<p>The consent manager even lets you manage consent requests you didn&#8217;t know you needed. Native consent requests are automatically created and third party add-ons that may require consent can create their own consent requests upon installation or update.</p>
+
+<p>On the frontend, users can easily view all existing consent requests, give or deny consent, and modify their consent settings at any time.  <a href="https://docs.expressionengine.com/v4/templates/globals/consent.html">Global consent variables</a> make it simple to alter content based on a user&#8217;s consent to a given request:</p>
+
+<div class="codeblock"><pre><code>&#123;if consent:ee_mail:email_collection&#125;
+
+    &#123;sign_up_button&#125;
+
+&#123;/if&#125;
+</code></pre></div>
+
+<p>All of those user responses to the consent requests are maintained in an <a href="https://docs.expressionengine.com/v4/cp/logs/consent.html">audit log</a>, making it a simple matter to report a user&#8217;s consent history. Because when dealing with the law, it&#8217;s always best to cover your &#8230; bases.</p>
+
+<h2>Cookie Consent</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr>&#8217;s discussion of cookies is sparse, but we&#8217;ve jumped through hoops before <a href="https://expressionengine.com/blog/the-cookie-consent-module-eu-cookie-legislation">due to EU cookie regulations</a>, so we&#8217;ve built in native cookie consent functionality that will stand up to the strictest interpretations of the <abbr title="General Data Protection Regulation">GDPR</abbr> on cookies.</p>
+
+<p>If you enable the cookie consent requirement in the <a href="https://docs.expressionengine.com/v4/cp/settings/security-privacy.html#require-user-consent-to-set-cookies">cookie settings</a>, only <strong>strictly necessary cookies</strong> will be set natively without first obtaining explicit prior consent.  Native ExpressionEngine cookies are <a href="https://docs.expressionengine.com/v4/general/cookies.html">well documented</a>, and necessary cookies do not contain any Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>).</p>
+
+<p>Consent to set non-necessary cookies can be managed via the Consent Manager, just like any other consent request.  Third party add-ons can register cookies they set as well. Any non-necessary cookie that is set via internal ExpressionEngine methods will require user consent prior to being set.</p>
+
+<h2>Member Anonymization</h2>
+
+<p>In addition to making certain users know what data a site is collecting and requiring permission for any <abbr title="Personally Identifiable Information">PII</abbr> data, the <abbr title="General Data Protection Regulation">GDPR</abbr> requires that users be able to remove their personal data at will.  In many cases, this is simply a matter of deleting the member, which is already an option. But there are times when a record needs to be maintained, such as purchase records.</p>
+
+<p>If deleting all traces of a member isn&#8217;t viable, version 4.3 allows you to &#8216;Anonymize&#8217; an existing user, wiping out all <abbr title="Personally Identifiable Information">PII</abbr> data but still maintaining the non-identifiable elements for the record.  To anonymize a member&#8217;s record, visit the Member&#8217;s profile in the control panel, and click &#8220;Anonymize Member Record&#8221;.</p>
+
+<p>Third party developers can sanitize any data they have stored as well via the new extension hooks.</p>
+
+<h2>Extension Hooks You Say?</h2>
+
+<p>Yes, one goal in v4.3 is to make it as easy as possible for third party developers to make their add-ons <abbr title="General Data Protection Regulation">GDPR</abbr> friendly.</p>
+
+<p>The add-on has its own cookies?  Put them in <a href="https://docs.expressionengine.com/v4/development/addon_setup_php_file.html">addon.addon.setup.php file</a>. Need to collect personal data? Add a few more lines to <code>addon.setup.php</code>.  The native <a href="https://docs.expressionengine.com/v4/add-ons/consent/index.html">Consent module</a> will handle users granting and denying consent for all registered consent requests, both first and third party.</p>
+
+<p>If your add-on needs to check those permissions before performing an action, the <a href="https://docs.expressionengine.com/v4/development/services/consent.html">Consent service</a> makes it easy. And the new <a href="https://docs.expressionengine.com/v4/development/extension_hooks/model/member/index.html#member-anonymize">member_anonymization hook</a> lets you know if you need to nuke any <abbr title="Personally Identifiable Information">PII</abbr> your add-on stores!</p>
+
+<h2>Breach Notification</h2>
+
+<p>Continuing the focus on transparency, the <abbr title="General Data Protection Regulation">GDPR</abbr> details specific requirements concerning the notification of the subjects of a data breach. The new <a href="https://docs.expressionengine.com/v4//cp/utilities/mass-notification-export.html">Mass Notification Export</a> utility will output both a full and a validated CSV of member email addresses. That makes it fast and easy to export to a third-party validation and mass notification service to make sure your emails are delivered and your domain doesn&#8217;t get blacklisted for spam. It&#8217;s one less thing to worry about in the unlikely event data is compromised.</p>
+
+<h2>Don&#8217;t care about the <abbr title="General Data Protection Regulation">GDPR</abbr>?</h2>
+
+<p>Totally unaffected by the <abbr title="General Data Protection Regulation">GDPR</abbr>? Celebrate your good fortune by checking out the new filters on the entry manager. Filter by author or set parameters on where to search while laughing at the rest of us as we try to figure out what counts as &#8216;Personally Identifying Information&#8217;.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 25 May 2018 15:39:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7286:"<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.3-announce-blog-news@2x_.png" alt="Welcome to 4.2">
+</figure>
+
+<p>Tis the season for updated privacy notifications, as websites scramble to comply with the European Union&#8217;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (<abbr title="General Data Protection Regulation">GDPR</abbr>), which goes into effect May 25th, 2018. Since the regulation applies to any entity processing the personal data of EU citizens, ignoring it really isn&#8217;t a good option. Upgrading to ExpressionEngine v4.3 is.</p>
+
+<p>ExpressionEngine v4.3 brings a comprehensive set of tools that make it the go-to CMS for building sites that take user privacy concerns seriously. It handles the heavy lifting, making it easy for designers and third party developers to create <abbr title="General Data Protection Regulation">GDPR</abbr> compliant websites.</p>
+
+<h2>Consent Manager</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr> is all about transparency and the need to obtain consent before processing personal data.  The new Consent Manager allows users to create and manage any requests for consent that they may need.  Have a Terms of Service? Create a consent request for it. Offering email sign-ups? Consent request.  Want to use targeted ad tracking? You know what you need to do.</p>
+
+<p>The consent manager even lets you manage consent requests you didn&#8217;t know you needed. Native consent requests are automatically created and third party add-ons that may require consent can create their own consent requests upon installation or update.</p>
+
+<p>On the frontend, users can easily view all existing consent requests, give or deny consent, and modify their consent settings at any time.  <a href="https://docs.expressionengine.com/v4/templates/globals/consent.html">Global consent variables</a> make it simple to alter content based on a user&#8217;s consent to a given request:</p>
+
+<div class="codeblock"><pre><code>&#123;if consent:ee_mail:email_collection&#125;
+
+    &#123;sign_up_button&#125;
+
+&#123;/if&#125;
+</code></pre></div>
+
+<p>All of those user responses to the consent requests are maintained in an <a href="https://docs.expressionengine.com/v4/cp/logs/consent.html">audit log</a>, making it a simple matter to report a user&#8217;s consent history. Because when dealing with the law, it&#8217;s always best to cover your &#8230; bases.</p>
+
+<h2>Cookie Consent</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr>&#8217;s discussion of cookies is sparse, but we&#8217;ve jumped through hoops before <a href="https://expressionengine.com/blog/the-cookie-consent-module-eu-cookie-legislation">due to EU cookie regulations</a>, so we&#8217;ve built in native cookie consent functionality that will stand up to the strictest interpretations of the <abbr title="General Data Protection Regulation">GDPR</abbr> on cookies.</p>
+
+<p>If you enable the cookie consent requirement in the <a href="https://docs.expressionengine.com/v4/cp/settings/security-privacy.html#require-user-consent-to-set-cookies">cookie settings</a>, only <strong>strictly necessary cookies</strong> will be set natively without first obtaining explicit prior consent.  Native ExpressionEngine cookies are <a href="https://docs.expressionengine.com/v4/general/cookies.html">well documented</a>, and necessary cookies do not contain any Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>).</p>
+
+<p>Consent to set non-necessary cookies can be managed via the Consent Manager, just like any other consent request.  Third party add-ons can register cookies they set as well. Any non-necessary cookie that is set via internal ExpressionEngine methods will require user consent prior to being set.</p>
+
+<h2>Member Anonymization</h2>
+
+<p>In addition to making certain users know what data a site is collecting and requiring permission for any <abbr title="Personally Identifiable Information">PII</abbr> data, the <abbr title="General Data Protection Regulation">GDPR</abbr> requires that users be able to remove their personal data at will.  In many cases, this is simply a matter of deleting the member, which is already an option. But there are times when a record needs to be maintained, such as purchase records.</p>
+
+<p>If deleting all traces of a member isn&#8217;t viable, version 4.3 allows you to &#8216;Anonymize&#8217; an existing user, wiping out all <abbr title="Personally Identifiable Information">PII</abbr> data but still maintaining the non-identifiable elements for the record.  To anonymize a member&#8217;s record, visit the Member&#8217;s profile in the control panel, and click &#8220;Anonymize Member Record&#8221;.</p>
+
+<p>Third party developers can sanitize any data they have stored as well via the new extension hooks.</p>
+
+<h2>Extension Hooks You Say?</h2>
+
+<p>Yes, one goal in v4.3 is to make it as easy as possible for third party developers to make their add-ons <abbr title="General Data Protection Regulation">GDPR</abbr> friendly.</p>
+
+<p>The add-on has its own cookies?  Put them in <a href="https://docs.expressionengine.com/v4/development/addon_setup_php_file.html">addon.addon.setup.php file</a>. Need to collect personal data? Add a few more lines to <code>addon.setup.php</code>.  The native <a href="https://docs.expressionengine.com/v4/add-ons/consent/index.html">Consent module</a> will handle users granting and denying consent for all registered consent requests, both first and third party.</p>
+
+<p>If your add-on needs to check those permissions before performing an action, the <a href="https://docs.expressionengine.com/v4/development/services/consent.html">Consent service</a> makes it easy. And the new <a href="https://docs.expressionengine.com/v4/development/extension_hooks/model/member/index.html#member-anonymize">member_anonymization hook</a> lets you know if you need to nuke any <abbr title="Personally Identifiable Information">PII</abbr> your add-on stores!</p>
+
+<h2>Breach Notification</h2>
+
+<p>Continuing the focus on transparency, the <abbr title="General Data Protection Regulation">GDPR</abbr> details specific requirements concerning the notification of the subjects of a data breach. The new <a href="https://docs.expressionengine.com/v4//cp/utilities/mass-notification-export.html">Mass Notification Export</a> utility will output both a full and a validated CSV of member email addresses. That makes it fast and easy to export to a third-party validation and mass notification service to make sure your emails are delivered and your domain doesn&#8217;t get blacklisted for spam. It&#8217;s one less thing to worry about in the unlikely event data is compromised.</p>
+
+<h2>Don&#8217;t care about the <abbr title="General Data Protection Regulation">GDPR</abbr>?</h2>
+
+<p>Totally unaffected by the <abbr title="General Data Protection Regulation">GDPR</abbr>? Celebrate your good fortune by checking out the new filters on the entry manager. Filter by author or set parameters on where to search while laughing at the rest of us as we try to figure out what counts as &#8216;Personally Identifying Information&#8217;.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:4;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"GDPR, EllisLab, and ExpressionEngine";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:68:"https://expressionengine.com/blog/gdpr-ellislab-and-expressionengine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:68:"https://expressionengine.com/blog/gdpr-ellislab-and-expressionengine";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-05-23T18:53:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-05-23T19:09:56+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:6357:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/gdpr-announce@2x.png" alt="GDPR Announcement"></figure>
+
+<p>The European Union&#8217;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (<abbr title="General Data Protection Regulation">GDPR</abbr>), a sprawling set of regulations designed with the intent on protecting privacy rights, becomes enforceable on May 25, 2018. You&#8217;ve seen the emails, the blog posts, and probably have made changes to your own site (or are still wondering what to do). Here&#8217;s what we&#8217;ve done:</p>
+
+<ul>
+<li>Updated our own <a href="https://ellislab.com/privacy-policy">Privacy Policy</a> and <a href="https://ellislab.com/terms-of-service">Terms of Service</a> to verify compliance with the new&nbsp;regulations</li>
+<li>Taken an inventory of all places we collect and/or process Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>), and verified that those are also in compliance</li>
+<li>Added opt-in to our optional cookies, and documented them thoroughly in our new <a href="https://ellislab.com/cookies-policy">Cookies Policy</a></li>
+<li>Spent the past few months building tools to make it easier for you to build <abbr title="General Data Protection Regulation">GDPR</abbr>-compliant&nbsp;websites</li>
+</ul>
+
+<p>ExpressionEngine, for its part, has always been compliant out-of-the-box. For instance:</p>
+
+<ul>
+<li>Its cookies contain no <abbr title="Personally Identifiable Information">PII</abbr> (with the exception of a couple comment module cookies that are compliant because they are opt-in only, their purpose is clear, and consent is easily withdrawn by the user).</li>
+<li>the <abbr title="Personally Identifiable Information">PII</abbr> stored for registered members is clearly visible and modifiable in the control panel.</li>
+<li>Its templating has the flexibility to output <abbr title="Personally Identifiable Information">PII</abbr> in any format necessary for verification or&nbsp;portability.</li>
+<li>Member records and their <abbr title="Personally Identifiable Information">PII</abbr> can be easily deleted. There&#8217;s even an optional self-service delete method available for membership sites.</li>
+</ul>
+
+<p>But that&#8217;s only part of the story. As a site builder and operator, what you do with <abbr title="Personally Identifiable Information">PII</abbr> is in your hands. And you must be capable of responding to specific <abbr title="General Data Protection Regulation">GDPR</abbr> requests. For many web sites, and the folks who build them, making sure that you&#8217;re operating in a compliant way can be difficult and take a lot of time. If you&#8217;re a company or developer already on a tight budget, it&#8217;s a pain, and a burden of time and money you have to buy from somewhere else.</p>
+
+<p>If you&#8217;ve felt frustrated, wondering if these unproven regulations will actually improve things, you&#8217;re not alone. Already the companies that can afford it—arguably the ones for whom these laws are directed—are taking measures to minimize their exposure. Others are simply preventing EU visitors from using their sites, and forbidding their use in their terms of service. That approach doesn&#8217;t do anyone any good. Ultimately, time will tell, and only after the laws have been litigated and proven in the courts will we know if it&#8217;s working, or even how some of the regulations will be interpreted and enforced.</p>
+
+<p>In the mean time, we like to obey the laws of the land and are sure you do too. And it&#8217;s always nice when that&#8217;s easy to do. It&#8217;s your responsibility, but we feel we should do more than tell you that you&#8217;re on your own. Or leave you to wade into MySQL to comply with an esoteric request. So we are committed to making ExpressionEngine the easiest CMS to comply with <abbr title="General Data Protection Regulation">GDPR</abbr> and similar regulations revolving around user privacy. Including but not limited to:</p>
+
+<ul>
+<li>Gaining clear consent, and building application logic around the user&#8217;s consents</li>
+<li>Enabling you to respond to a person&#8217;s right to be forgotten without obliterating or orphaning records that you need to keep</li>
+<li>Enabling you to notify people easily in the unfortunate event of a data breach</li>
+</ul>
+
+<p>Here&#8217;s a quick example: the consent tools we&#8217;ve built for you. Some features of your site process <abbr title="Personally Identifiable Information">PII</abbr>, and that requires specific and clear consent, that can be easily withdrawn. We have built a new module with simple tags that will let you capture consent for anything you need, and honor the user&#8217;s wishes throughout your site. It&#8217;s what we&#8217;re using right now on our site and will soon be available for you too. For example, if you require cookie consent, before adding Google Analytics&#8217; script, you can check to see if the user allows you to set &#8220;performance&#8221; cookies:</p>
+
+<div class="codeblock"><pre><code>&#123;if consent:ee:cookies_performance&#125;
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+    (function(i,s,o,g,r,a,m)&#123;i&#91;'GoogleAnalyticsObject'&#93;=r;i&#91;r&#93;=i&#91;r&#93;||function()&#123;
+    (i&#91;r&#93;.q=i&#91;r&#93;.q||&#91;&#93;).push(arguments)&#125;,i&#91;r&#93;.l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)&#91;0&#93;;a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    &#125;)(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-XXXXX-Y', 'auto');
+    ga('send', 'pageview');
+    &lt;/script&gt;
+    &lt;!-- End Google Analytics --&gt;
+&#123;/if&#125;
+</code></pre></div>
+
+<p>This is just the tip of the iceberg, and we&#8217;ll be blogging and posting educational tips and tricks on using these new features as time goes on. Thanks for sticking to the end of this read. It was a small wall of text, and still less than 1% of the length of the <abbr title="General Data Protection Regulation">GDPR</abbr>. It&#8217;s our aim to help keep building on the web fun, even in the face of 55,000+ words of new regulations that aren&#8217;t easily digestible for most professionals.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 23 May 2018 18:53:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:6347:"<figure><img src="https://expressionengine.com/asset/img/blog/gdpr-announce@2x.png" alt="GDPR Announcement"></figure>
+
+<p>The European Union&#8217;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (<abbr title="General Data Protection Regulation">GDPR</abbr>), a sprawling set of regulations designed with the intent on protecting privacy rights, becomes enforceable on May 25, 2018. You&#8217;ve seen the emails, the blog posts, and probably have made changes to your own site (or are still wondering what to do). Here&#8217;s what we&#8217;ve done:</p>
+
+<ul>
+<li>Updated our own <a href="https://ellislab.com/privacy-policy">Privacy Policy</a> and <a href="https://ellislab.com/terms-of-service">Terms of Service</a> to verify compliance with the new&nbsp;regulations</li>
+<li>Taken an inventory of all places we collect and/or process Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>), and verified that those are also in compliance</li>
+<li>Added opt-in to our optional cookies, and documented them thoroughly in our new <a href="https://ellislab.com/cookies-policy">Cookies Policy</a></li>
+<li>Spent the past few months building tools to make it easier for you to build <abbr title="General Data Protection Regulation">GDPR</abbr>-compliant&nbsp;websites</li>
+</ul>
+
+<p>ExpressionEngine, for its part, has always been compliant out-of-the-box. For instance:</p>
+
+<ul>
+<li>Its cookies contain no <abbr title="Personally Identifiable Information">PII</abbr> (with the exception of a couple comment module cookies that are compliant because they are opt-in only, their purpose is clear, and consent is easily withdrawn by the user).</li>
+<li>the <abbr title="Personally Identifiable Information">PII</abbr> stored for registered members is clearly visible and modifiable in the control panel.</li>
+<li>Its templating has the flexibility to output <abbr title="Personally Identifiable Information">PII</abbr> in any format necessary for verification or&nbsp;portability.</li>
+<li>Member records and their <abbr title="Personally Identifiable Information">PII</abbr> can be easily deleted. There&#8217;s even an optional self-service delete method available for membership sites.</li>
+</ul>
+
+<p>But that&#8217;s only part of the story. As a site builder and operator, what you do with <abbr title="Personally Identifiable Information">PII</abbr> is in your hands. And you must be capable of responding to specific <abbr title="General Data Protection Regulation">GDPR</abbr> requests. For many web sites, and the folks who build them, making sure that you&#8217;re operating in a compliant way can be difficult and take a lot of time. If you&#8217;re a company or developer already on a tight budget, it&#8217;s a pain, and a burden of time and money you have to buy from somewhere else.</p>
+
+<p>If you&#8217;ve felt frustrated, wondering if these unproven regulations will actually improve things, you&#8217;re not alone. Already the companies that can afford it—arguably the ones for whom these laws are directed—are taking measures to minimize their exposure. Others are simply preventing EU visitors from using their sites, and forbidding their use in their terms of service. That approach doesn&#8217;t do anyone any good. Ultimately, time will tell, and only after the laws have been litigated and proven in the courts will we know if it&#8217;s working, or even how some of the regulations will be interpreted and enforced.</p>
+
+<p>In the mean time, we like to obey the laws of the land and are sure you do too. And it&#8217;s always nice when that&#8217;s easy to do. It&#8217;s your responsibility, but we feel we should do more than tell you that you&#8217;re on your own. Or leave you to wade into MySQL to comply with an esoteric request. So we are committed to making ExpressionEngine the easiest CMS to comply with <abbr title="General Data Protection Regulation">GDPR</abbr> and similar regulations revolving around user privacy. Including but not limited to:</p>
+
+<ul>
+<li>Gaining clear consent, and building application logic around the user&#8217;s consents</li>
+<li>Enabling you to respond to a person&#8217;s right to be forgotten without obliterating or orphaning records that you need to keep</li>
+<li>Enabling you to notify people easily in the unfortunate event of a data breach</li>
+</ul>
+
+<p>Here&#8217;s a quick example: the consent tools we&#8217;ve built for you. Some features of your site process <abbr title="Personally Identifiable Information">PII</abbr>, and that requires specific and clear consent, that can be easily withdrawn. We have built a new module with simple tags that will let you capture consent for anything you need, and honor the user&#8217;s wishes throughout your site. It&#8217;s what we&#8217;re using right now on our site and will soon be available for you too. For example, if you require cookie consent, before adding Google Analytics&#8217; script, you can check to see if the user allows you to set &#8220;performance&#8221; cookies:</p>
+
+<div class="codeblock"><pre><code>&#123;if consent:ee:cookies_performance&#125;
+    &lt;!-- Google Analytics --&gt;
+    &lt;script&gt;
+    (function(i,s,o,g,r,a,m)&#123;i&#91;'GoogleAnalyticsObject'&#93;=r;i&#91;r&#93;=i&#91;r&#93;||function()&#123;
+    (i&#91;r&#93;.q=i&#91;r&#93;.q||&#91;&#93;).push(arguments)&#125;,i&#91;r&#93;.l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)&#91;0&#93;;a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    &#125;)(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-XXXXX-Y', 'auto');
+    ga('send', 'pageview');
+    &lt;/script&gt;
+    &lt;!-- End Google Analytics --&gt;
+&#123;/if&#125;
+</code></pre></div>
+
+<p>This is just the tip of the iceberg, and we&#8217;ll be blogging and posting educational tips and tricks on using these new features as time goes on. Thanks for sticking to the end of this read. It was a small wall of text, and still less than 1% of the length of the <abbr title="General Data Protection Regulation">GDPR</abbr>. It&#8217;s our aim to help keep building on the web fun, even in the face of 55,000+ words of new regulations that aren&#8217;t easily digestible for most professionals.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:5;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"ExpressionEngine Versions 4.2.1 and 3.5.16 Released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:85:"https://expressionengine.com/blog/expressionengine-versions-4.2.1-and-3.5.16-released";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:85:"https://expressionengine.com/blog/expressionengine-versions-4.2.1-and-3.5.16-released";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-04-18T21:32:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-04-18T23:45:09+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:25:"robin.sowell@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:660:"
+				<p>While version 4 releases have been fast and furious, a rare version 3 update merits a blog post!</p>
+
+<p>3.5.16 is a general security and stability release recommended for all v3 users.</p>
+
+<p>Version 4.2.1 is also out, with a number of bug and security updates.  Given that updating v4 takes less time than reading this far, I&#8217;ll assume everyone on version 4 is now current.</p>
+
+<p>See the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-5-16">version 3 changelog here</a> or the more extensive <a href="https://docs.expressionengine.com/v4/about/changelog.html#version-4-2-1">version 4 changes here</a>.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 18 Apr 2018 21:32:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:650:"<p>While version 4 releases have been fast and furious, a rare version 3 update merits a blog post!</p>
+
+<p>3.5.16 is a general security and stability release recommended for all v3 users.</p>
+
+<p>Version 4.2.1 is also out, with a number of bug and security updates.  Given that updating v4 takes less time than reading this far, I&#8217;ll assume everyone on version 4 is now current.</p>
+
+<p>See the <a href="https://docs.expressionengine.com/v3/about/changelog.html#version-3-5-16">version 3 changelog here</a> or the more extensive <a href="https://docs.expressionengine.com/v4/about/changelog.html#version-4-2-1">version 4 changes here</a>.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:6;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Next Stop, 4.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:47:"https://expressionengine.com/blog/next-stop-4.2";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:47:"https://expressionengine.com/blog/next-stop-4.2";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-04-16T16:37:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-04-19T18:58:44+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"James Mathias";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:26:"james.mathias@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:4006:"
+				<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.2-announce-blog-news@2x.png" alt="Welcome to 4.2">
+</figure>
+
+<p>If ExpressionEngine 2 was a freight train, ExpressionEngine 4 is a bullet train. We&#8217;re moving faster than ever before, streamlining, and improving the software with every new release.</p>
+
+<p>Speaking of new releases&#8230;</p>
+
+<h2>Editing 2.0.</h2>
+
+<p>In our last release we re-introduced an improved bulk editing feature. Today we take that one step further.</p>
+
+<p>Starting in ExpressionEngine 4.2 you can select multiple entries, and edit them individually, in order within a single UI. Gone are the days of opening entries in new windows/tabs to make precision edits.</p>
+
+<p>Along with Bulk Edit, this new feature makes editing your content in ExpressionEngine more efficient and smoother than ever before!</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/precision-edits.gif" alt="Precision Editing">
+</figure>
+
+<h2>Fluid meta variables</h2>
+
+<p>We introduced Fluid in version 4.0. This brand new field type puts the power of content layout into your client&#8217;s hands, without needing a degree in Computer Science.</p>
+
+<p>Today we expand this terrific new field, bringing Fluid meta variables to the fray.</p>
+
+<p>With Fluid meta variables you can get all conditional up in the templates, increasing the parsing power of Fluid ten-fold!</p>
+
+<div class="codeblock"><pre><code>&#123;fluid_content&#125;
+    &lt;div &#123;if fluid_content:first&#125;class="well"&#123;/if&#125;&gt;
+
+        &#123;fluid_content:text&#125;
+            &#123;if &#123;fluid_content:first name="text"&#125;&#125;
+                &lt;div class="lead"&gt;&#123;content&#125;&lt;/div&gt;
+            &#123;if:else&#125;
+                &#123;content&#125;
+            &#123;/if&#125;
+        &#123;/fluid_content:text&#125;
+
+    &lt;/div&gt;
+&#123;/fluid_content&#125;
+</code></pre></div>
+
+<p>Now you can separate the first item from the rest, and so much more! Check out the <a href="https://docs.expressionengine.com/latest/fieldtypes/fluid.html#variables" rel="external">documentation for Fluid meta variables</a>.</p>
+
+<h2>Variable Dates</h2>
+
+<p>Typically when we refer to time it&#8217;s relative to our present. We say Tomorrow, Yesterday, Next Week. Starting <em>today</em>, you can have ExpressionEngine be a little more conversational in its date output.</p>
+
+<p>For instance if we wanted to know how much time is left until <a href="https://www.eeconf.com" rel="external">EE CONF 2018</a> we could write</p>
+
+<div class="codeblock"><pre><code>EE CONF 2018 starts &#123;variable_time:relative date='2018-10-25' units='days'&#125;.
+</code></pre></div>
+
+<p>Which would output &#8220;EE CONF 2018 starts in 191 days.&#8221;</p>
+
+<p>ExpressionEngine 4.2 can even output specific dates from relative input.</p>
+
+<div class="codeblock"><pre><code>&#123;variable_time date="2 days ago" format="%F %d, %Y"&#125;
+</code></pre></div>
+
+<p>Outputs &#8220;April 09, 2018&#8221;</p>
+
+<p>Neat! And there&#8217;s a ton of <a href="https://docs.expressionengine.com/latest/templates/date_variable_formatting.html#relative-dates" rel="external">applications for variable dates</a>.</p>
+
+<h2>What else is there?</h2>
+
+<p>Along with the major improvements above, we bring a gaggle of security, stability and UI fixes to ExpressionEngine. These changes include smoother upgrade checks; an easier way to see what&#8217;s selected in the Drop Down UI; and better system notifications.</p>
+
+<p>Oh, and you can now create new relationship entries right from the Publish Form, no big deal.</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/new-relationships.gif" alt="Inline Relationship Creation">
+</figure>
+
+<p>ExpressionEngine 4.2 brings a load of improvements, enhancements, and fun to building projects for yourself and your clients. Want to get all that good stuff? It&#8217;s just a click away!</p>
+
+<p>Next Stop? Stay tuned!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 16 Apr 2018 16:37:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3996:"<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.2-announce-blog-news@2x.png" alt="Welcome to 4.2">
+</figure>
+
+<p>If ExpressionEngine 2 was a freight train, ExpressionEngine 4 is a bullet train. We&#8217;re moving faster than ever before, streamlining, and improving the software with every new release.</p>
+
+<p>Speaking of new releases&#8230;</p>
+
+<h2>Editing 2.0.</h2>
+
+<p>In our last release we re-introduced an improved bulk editing feature. Today we take that one step further.</p>
+
+<p>Starting in ExpressionEngine 4.2 you can select multiple entries, and edit them individually, in order within a single UI. Gone are the days of opening entries in new windows/tabs to make precision edits.</p>
+
+<p>Along with Bulk Edit, this new feature makes editing your content in ExpressionEngine more efficient and smoother than ever before!</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/precision-edits.gif" alt="Precision Editing">
+</figure>
+
+<h2>Fluid meta variables</h2>
+
+<p>We introduced Fluid in version 4.0. This brand new field type puts the power of content layout into your client&#8217;s hands, without needing a degree in Computer Science.</p>
+
+<p>Today we expand this terrific new field, bringing Fluid meta variables to the fray.</p>
+
+<p>With Fluid meta variables you can get all conditional up in the templates, increasing the parsing power of Fluid ten-fold!</p>
+
+<div class="codeblock"><pre><code>&#123;fluid_content&#125;
+    &lt;div &#123;if fluid_content:first&#125;class="well"&#123;/if&#125;&gt;
+
+        &#123;fluid_content:text&#125;
+            &#123;if &#123;fluid_content:first name="text"&#125;&#125;
+                &lt;div class="lead"&gt;&#123;content&#125;&lt;/div&gt;
+            &#123;if:else&#125;
+                &#123;content&#125;
+            &#123;/if&#125;
+        &#123;/fluid_content:text&#125;
+
+    &lt;/div&gt;
+&#123;/fluid_content&#125;
+</code></pre></div>
+
+<p>Now you can separate the first item from the rest, and so much more! Check out the <a href="https://docs.expressionengine.com/latest/fieldtypes/fluid.html#variables" rel="external">documentation for Fluid meta variables</a>.</p>
+
+<h2>Variable Dates</h2>
+
+<p>Typically when we refer to time it&#8217;s relative to our present. We say Tomorrow, Yesterday, Next Week. Starting <em>today</em>, you can have ExpressionEngine be a little more conversational in its date output.</p>
+
+<p>For instance if we wanted to know how much time is left until <a href="https://www.eeconf.com" rel="external">EE CONF 2018</a> we could write</p>
+
+<div class="codeblock"><pre><code>EE CONF 2018 starts &#123;variable_time:relative date='2018-10-25' units='days'&#125;.
+</code></pre></div>
+
+<p>Which would output &#8220;EE CONF 2018 starts in 191 days.&#8221;</p>
+
+<p>ExpressionEngine 4.2 can even output specific dates from relative input.</p>
+
+<div class="codeblock"><pre><code>&#123;variable_time date="2 days ago" format="%F %d, %Y"&#125;
+</code></pre></div>
+
+<p>Outputs &#8220;April 09, 2018&#8221;</p>
+
+<p>Neat! And there&#8217;s a ton of <a href="https://docs.expressionengine.com/latest/templates/date_variable_formatting.html#relative-dates" rel="external">applications for variable dates</a>.</p>
+
+<h2>What else is there?</h2>
+
+<p>Along with the major improvements above, we bring a gaggle of security, stability and UI fixes to ExpressionEngine. These changes include smoother upgrade checks; an easier way to see what&#8217;s selected in the Drop Down UI; and better system notifications.</p>
+
+<p>Oh, and you can now create new relationship entries right from the Publish Form, no big deal.</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/new-relationships.gif" alt="Inline Relationship Creation">
+</figure>
+
+<p>ExpressionEngine 4.2 brings a load of improvements, enhancements, and fun to building projects for yourself and your clients. Want to get all that good stuff? It&#8217;s just a click away!</p>
+
+<p>Next Stop? Stay tuned!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:7;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"Another step forward, welcome to 4.1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:69:"https://expressionengine.com/blog/another-step-forward-welcome-to-4.1";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"https://expressionengine.com/blog/another-step-forward-welcome-to-4.1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-03-01T19:28:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-03-05T19:16:11+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"James Mathias";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:26:"james.mathias@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2591:"
+				<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.1-announce-blog-news@2x.png" alt="Welcome to 4.1">
+</figure>
+
+<p>Here&#8217;s a fact. ExpressionEngine CMS continually improves. With every new release we squash bugs, enhance security, and add more value. Today we&#8217;re proud to release version 4.1 packed with a bevy of fixes, enhancements, and improvements. Another fact. All this greatness is available in a single click.</p>
+
+<h2>A preview of things to come</h2>
+
+<p>For a long time ExpressionEngine CMS has had a &#8220;Live Look&#8221; feature which allowed content editors to see what their entries would look like within the design of their site&#8217;s templates. A powerful and convenient feature. But, like all things it could be improved.</p>
+
+<p>In 4.1 we introduce Live Preview. Now content editors can preview their content in context, while they&#8217;re editing it. No special statuses or extra templates needed. Live Preview is responsive and works beautifully across all kinds of devices.</p>
+
+<p>We believe that both you and your clients are going to LOVE Live Preview!</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/live-preview.gif" alt="Live Preview in Action">
+</figure>
+
+<h2>Making changes en masse</h2>
+
+<p>Today we welcome back an improved Bulk Edit feature. In 4.1 you will be able to select multiple entries and quickly edit their categories, dates, statuses, and more. You can add or remove categories from your entries with a single save. Starting today you can open or close a group of entries in seconds, without a single extra browser tab!</p>
+
+<p>Bulk Edit is the first step towards more robust content editing in ExpressionEngine. We believe Bulk Edit is a huge quality-of-life feature, and we hope you find it as useful as we do.</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/bulk-edit.gif" alt="Bulk Edit in Action">
+</figure>
+
+<h2>There&#8217;s always more&#8230;</h2>
+
+<p>4.1 has a variety of additional smaller, but not less important enhancements as well. Including improved security and notifications for password and email changes; dozens of bug fixes, and UI tweaks; and iterations on our variable modifiers, like the new decimal parameter for our currency modifier. For example <code>{cost:currency decimal='0'}</code> would output <code>$299</code> instead of <code>$299.00</code></p>
+
+<p>ExpressionEngine 4.1 brings a lot of improvements to your favorite CMS. Now go click that version number in your CP and start enjoying ExpressionEngine CMS 4.1 today!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 01 Mar 2018 19:28:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2581:"<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.1-announce-blog-news@2x.png" alt="Welcome to 4.1">
+</figure>
+
+<p>Here&#8217;s a fact. ExpressionEngine CMS continually improves. With every new release we squash bugs, enhance security, and add more value. Today we&#8217;re proud to release version 4.1 packed with a bevy of fixes, enhancements, and improvements. Another fact. All this greatness is available in a single click.</p>
+
+<h2>A preview of things to come</h2>
+
+<p>For a long time ExpressionEngine CMS has had a &#8220;Live Look&#8221; feature which allowed content editors to see what their entries would look like within the design of their site&#8217;s templates. A powerful and convenient feature. But, like all things it could be improved.</p>
+
+<p>In 4.1 we introduce Live Preview. Now content editors can preview their content in context, while they&#8217;re editing it. No special statuses or extra templates needed. Live Preview is responsive and works beautifully across all kinds of devices.</p>
+
+<p>We believe that both you and your clients are going to LOVE Live Preview!</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/live-preview.gif" alt="Live Preview in Action">
+</figure>
+
+<h2>Making changes en masse</h2>
+
+<p>Today we welcome back an improved Bulk Edit feature. In 4.1 you will be able to select multiple entries and quickly edit their categories, dates, statuses, and more. You can add or remove categories from your entries with a single save. Starting today you can open or close a group of entries in seconds, without a single extra browser tab!</p>
+
+<p>Bulk Edit is the first step towards more robust content editing in ExpressionEngine. We believe Bulk Edit is a huge quality-of-life feature, and we hope you find it as useful as we do.</p>
+
+<figure>
+    <img src="https://expressionengine.com/asset/img/blog/bulk-edit.gif" alt="Bulk Edit in Action">
+</figure>
+
+<h2>There&#8217;s always more&#8230;</h2>
+
+<p>4.1 has a variety of additional smaller, but not less important enhancements as well. Including improved security and notifications for password and email changes; dozens of bug fixes, and UI tweaks; and iterations on our variable modifiers, like the new decimal parameter for our currency modifier. For example <code>{cost:currency decimal='0'}</code> would output <code>$299</code> instead of <code>$299.00</code></p>
+
+<p>ExpressionEngine 4.1 brings a lot of improvements to your favorite CMS. Now go click that version number in your CP and start enjoying ExpressionEngine CMS 4.1 today!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:8;a:6:{s:4:"data";s:140:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:44:"New Duration Fieldtype in ExpressionEngine 4";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:78:"https://expressionengine.com/blog/new-duration-fieldtype-in-expressionengine-4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:78:"https://expressionengine.com/blog/new-duration-fieldtype-in-expressionengine-4";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-02-05T15:08:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-02-12T17:51:39+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:15:"Tips and Tricks";s:6:"scheme";s:58:"https://expressionengine.com/blog/category/tips-and-tricks";s:5:"label";s:15:"Tips and Tricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1847:"
+				<p>Dates are not the only way we measure or describe time. Take a movie theater&#8217;s web site. The date and time that a show starts is important. But so is its length. If you&#8217;re operating a movie <em>review</em> site, then you probably <em>only</em> care about its runtime. The Duration fieldtype is just what the doctor ordered.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/duration-fieldtype.gif" alt="Duration fieldtype example"></figure>
+
+<p>Both the input and the output options are flexible. In the example of our movie above, &#8220;The Jungle Book&#8221;, the site builder has created a Duration field with minutes as the unit of measure. The content author can enter the runtime as 106 minutes or use colon notation of 1:46, indicating 1 hour and 46 minutes. Either way, ExpressionEngine knows the total time being indicated, and the site builder could display it as:</p>
+
+<div class="codeblock"><pre><code>&#123;runtime&#125;
+&#123;!-- 1:46 --&#125;
+</code></pre></div>
+
+<p>Or have full control over the formatting with the <code>format=</code> parameter like:</p>
+
+<div class="codeblock"><pre><code>&#123;runtime format='%h hr, %m min'&#125;
+&#123;!-- 1 hr, 46 min --&#125;
+</code></pre></div>
+
+<p>In the field&#8217;s settings, the site builder can select either hours, minutes, or seconds as the unit of time. ExpressionEngine will cue the author in the placeholder text, so they are aware of what their input would signify. e.g. 42 hours vs. 42 minutes vs. 42 seconds. Movie and play runtimes, cooking times, travel times, cycling / running elapsed times, and more are all great fits for the new Duration fieldtype.</p>
+
+<p>This article took you approximately <strong>1m 6s</strong> / <strong>1:06</strong> / <strong>1 minute and 6 seconds</strong> / <strong>66 sec to read</strong>. ⏱</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 05 Feb 2018 15:08:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1837:"<p>Dates are not the only way we measure or describe time. Take a movie theater&#8217;s web site. The date and time that a show starts is important. But so is its length. If you&#8217;re operating a movie <em>review</em> site, then you probably <em>only</em> care about its runtime. The Duration fieldtype is just what the doctor ordered.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/duration-fieldtype.gif" alt="Duration fieldtype example"></figure>
+
+<p>Both the input and the output options are flexible. In the example of our movie above, &#8220;The Jungle Book&#8221;, the site builder has created a Duration field with minutes as the unit of measure. The content author can enter the runtime as 106 minutes or use colon notation of 1:46, indicating 1 hour and 46 minutes. Either way, ExpressionEngine knows the total time being indicated, and the site builder could display it as:</p>
+
+<div class="codeblock"><pre><code>&#123;runtime&#125;
+&#123;!-- 1:46 --&#125;
+</code></pre></div>
+
+<p>Or have full control over the formatting with the <code>format=</code> parameter like:</p>
+
+<div class="codeblock"><pre><code>&#123;runtime format='%h hr, %m min'&#125;
+&#123;!-- 1 hr, 46 min --&#125;
+</code></pre></div>
+
+<p>In the field&#8217;s settings, the site builder can select either hours, minutes, or seconds as the unit of time. ExpressionEngine will cue the author in the placeholder text, so they are aware of what their input would signify. e.g. 42 hours vs. 42 minutes vs. 42 seconds. Movie and play runtimes, cooking times, travel times, cycling / running elapsed times, and more are all great fits for the new Duration fieldtype.</p>
+
+<p>This article took you approximately <strong>1m 6s</strong> / <strong>1:06</strong> / <strong>1 minute and 6 seconds</strong> / <strong>66 sec to read</strong>. ⏱</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:9;a:6:{s:4:"data";s:157:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:47:"Three New Content Filters in ExpressionEngine 4";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:81:"https://expressionengine.com/blog/three-new-content-filters-in-expressionengine-4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:81:"https://expressionengine.com/blog/three-new-content-filters-in-expressionengine-4";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-02-01T19:27:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-02-01T19:48:53+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:5:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:11:"Development";s:6:"scheme";s:54:"https://expressionengine.com/blog/category/development";s:5:"label";s:11:"Development";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:9:"Education";s:6:"scheme";s:52:"https://expressionengine.com/blog/category/education";s:5:"label";s:9:"Education";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:4;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:15:"Tips and Tricks";s:6:"scheme";s:58:"https://expressionengine.com/blog/category/tips-and-tricks";s:5:"label";s:15:"Tips and Tricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:5989:"
+				<p>We&#8217;ve been sharing some of ExpressionEngine&#8217;s big new features on our blog lately. But ExpressionEngine 4 also comes packed with little treats that increase your web site&#8217;s flexibility and make building sites even easier. Here are three new content filters that you can start using today!</p>
+
+<h2><code>show_expired='only'</code></h2>
+
+<p>Expiration dates are a great way to automate removal of content from your site at a specified time. (Pizza joints, I&#8217;m looking at you and your &#8220;current specials&#8221; that expired in fall of 2017&#8230;) Whether it&#8217;s a concert, a limited time offer, or an annual funding drive, expiration dates can ensure that your web site doesn&#8217;t contain stale content. And your content authors don&#8217;t have to set reminders and alarms and wake up at 2am to close entries.</p>
+
+<p>But let&#8217;s say that you want to explicitly show expired content in an archive listing. Easy enough, <code>show_expired='yes'</code>. Ah, but things aren&#8217;t always so simple are they? Take this example of a City Events channel:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Event</th>
+  <th>Entry Date</th>
+  <th>Expiration Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>First Friday Art Walk</td>
+  <td>2/02/2018 5:30pm</td>
+  <td>2/02/2018 10:00pm</td>
+</tr>
+<tr>
+  <td>Local Pour Craft Beverage Tours</td>
+  <td>2/15/2018 1:30pm</td>
+  <td>2/15/2018 5:00pm</td>
+</tr>
+<tr>
+  <td>Winterfest</td>
+  <td>2/15/2018 6:00pm</td>
+  <td>2/18/2018 9:00pm</td>
+</tr>
+</tbody>
+</table>
+
+<p><code>show_expired='yes'</code> works <em>mostly</em>:</p>
+
+<div class="codeblock"><pre><code>&#123;exp:channel:entries channel='events' show_expired='yes'&#125;
+</code></pre></div>
+
+<p>With this opening tag, a visitor to the archive on February 9th would see the previous weekend&#8217;s event, <strong>First Friday Art Walk</strong>.</p>
+
+<p>But what about someone visiting the site on <em>February 17th</em>, in the middle of Winterfest? Winterfest is an open entry, dated two days ago, so it would show up too. But that&#8217;s not our intent. We don&#8217;t want a visitor in town on Saturday to think that Winterfest is over!</p>
+
+<div class="codeblock"><pre><code>&#123;exp:channel:entries channel='events' show_expired='only'&#125;
+</code></pre></div>
+
+<p>This new filter matches our intent. <strong>Only</strong> show events that have expired. On February 17th, that means <strong>First Friday Art Walk</strong> and <strong>Local Pour Craft Beverage Tours</strong> will be listed in our archive of past events, but not <strong>Winterfest</strong>, which isn&#8217;t over yet. At 9pm on Sunday the 18th, Winterfest will automatically be included as a past event.</p>
+
+<h2><code>sticky='only'</code></h2>
+
+<p>Sticky entries ignore the sort order of your Channel Entries tag and are always listed first. This can be handy for important announcements, for keeping hot news stories on the front page, or for descriptive content that you always want visitors to see first.</p>
+
+<p>Let&#8217;s say you have a variable number of &#8220;hot&#8221; news items. Some days it&#8217;s ten stories, on a slow news day there are only two. You want to make a link so your regular visitors can jump straight to the hot stories. In ExpressionEngine, you always have many options for implementation, each with subtle differences in behavior.</p>
+
+<p>For example, you could use a &#8220;Featured&#8221; status and filter based on that. But statuses don&#8217;t affect the sort order, so to keep them at the top, you&#8217;d have to use a separate Channel Entries tag. That&#8217;s okay, but if the number of articles is variable and you&#8217;ve got a complex layout, it can get tricky.</p>
+
+<p>Sticky is perfect in this case, but previously you&#8217;d have to &#8220;cut&#8221; the listings using <code>limit=''</code>, which means placing that same limitation on your content authors. <code>limit='5'</code>, instruct them to just pick 5 stories, no more no less, and their &#8220;hot stories&#8221; are fine. But if they pick more than 5, then the excess won&#8217;t show up. If they pick fewer than 5, then normal stories get included with the &#8220;hot&#8221; ones.</p>
+
+<p>With this new filter:</p>
+
+<div class="codeblock"><pre><code>&#123;exp:channel:entries channel='news' sticky='only'&#125;
+</code></pre></div>
+
+<p>Now you can create a listing that <em>only</em> contains your must-read content, without setting limits on your content authors.</p>
+
+<h2><code>search:numeric_field=''</code></h2>
+
+<p>The last new unsung parametric hero of ExpressionEngine 4 is an update to the venerable <code>search:field=''</code> parameter. For numeric fields, you&#8217;ve always been able to use basic comparison operators. To show items that are $10 or less: <code>search:price='&lt;=10'</code>. ExpressionEngine 4 expands on this by allowing you to specify <em>ranges</em>.</p>
+
+<div class="codeblock"><pre><code>&#123;!-- show me Middle Schoolers --&#125;
+&#123;exp:channel:entries channel='students' search:grade='&gt;5|&lt;9'&#125;
+</code></pre></div>
+
+<p>Now the filter will show all students from grades 6, 7, and 8.</p>
+
+<p>This also works for <em>custom date fields</em>. Since date fields are stored in <a href="https://en.wikipedia.org/wiki/Unix_time">Unix time</a>, you can perform numeric range checks just as easily.</p>
+
+<div class="codeblock"><pre><code>&#123;!-- show everyone who signed up to take their ACT from February through April 2018 --&#125;
+&#123;exp:channel:entries channel='students' search:act_date='&gt;1517443200|&lt;1525132800'&#125;
+</code></pre></div>
+
+<p>I find <a href="https://www.unixtimestamp.com/">unixtimestamp.com</a> helpful to define timestamps, and I use ExpressionEngine template comments to remind myself of the human readable date.</p>
+
+<p>And there you have it. Three simple but powerful filtering options now available in ExpressionEngine 4. We hope they help you solve challenges more easily than ever!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 01 Feb 2018 19:27:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5979:"<p>We&#8217;ve been sharing some of ExpressionEngine&#8217;s big new features on our blog lately. But ExpressionEngine 4 also comes packed with little treats that increase your web site&#8217;s flexibility and make building sites even easier. Here are three new content filters that you can start using today!</p>
+
+<h2><code>show_expired='only'</code></h2>
+
+<p>Expiration dates are a great way to automate removal of content from your site at a specified time. (Pizza joints, I&#8217;m looking at you and your &#8220;current specials&#8221; that expired in fall of 2017&#8230;) Whether it&#8217;s a concert, a limited time offer, or an annual funding drive, expiration dates can ensure that your web site doesn&#8217;t contain stale content. And your content authors don&#8217;t have to set reminders and alarms and wake up at 2am to close entries.</p>
+
+<p>But let&#8217;s say that you want to explicitly show expired content in an archive listing. Easy enough, <code>show_expired='yes'</code>. Ah, but things aren&#8217;t always so simple are they? Take this example of a City Events channel:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Event</th>
+  <th>Entry Date</th>
+  <th>Expiration Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>First Friday Art Walk</td>
+  <td>2/02/2018 5:30pm</td>
+  <td>2/02/2018 10:00pm</td>
+</tr>
+<tr>
+  <td>Local Pour Craft Beverage Tours</td>
+  <td>2/15/2018 1:30pm</td>
+  <td>2/15/2018 5:00pm</td>
+</tr>
+<tr>
+  <td>Winterfest</td>
+  <td>2/15/2018 6:00pm</td>
+  <td>2/18/2018 9:00pm</td>
+</tr>
+</tbody>
+</table>
+
+<p><code>show_expired='yes'</code> works <em>mostly</em>:</p>
+
+<div class="codeblock"><pre><code>&#123;exp:channel:entries channel='events' show_expired='yes'&#125;
+</code></pre></div>
+
+<p>With this opening tag, a visitor to the archive on February 9th would see the previous weekend&#8217;s event, <strong>First Friday Art Walk</strong>.</p>
+
+<p>But what about someone visiting the site on <em>February 17th</em>, in the middle of Winterfest? Winterfest is an open entry, dated two days ago, so it would show up too. But that&#8217;s not our intent. We don&#8217;t want a visitor in town on Saturday to think that Winterfest is over!</p>
+
+<div class="codeblock"><pre><code>&#123;exp:channel:entries channel='events' show_expired='only'&#125;
+</code></pre></div>
+
+<p>This new filter matches our intent. <strong>Only</strong> show events that have expired. On February 17th, that means <strong>First Friday Art Walk</strong> and <strong>Local Pour Craft Beverage Tours</strong> will be listed in our archive of past events, but not <strong>Winterfest</strong>, which isn&#8217;t over yet. At 9pm on Sunday the 18th, Winterfest will automatically be included as a past event.</p>
+
+<h2><code>sticky='only'</code></h2>
+
+<p>Sticky entries ignore the sort order of your Channel Entries tag and are always listed first. This can be handy for important announcements, for keeping hot news stories on the front page, or for descriptive content that you always want visitors to see first.</p>
+
+<p>Let&#8217;s say you have a variable number of &#8220;hot&#8221; news items. Some days it&#8217;s ten stories, on a slow news day there are only two. You want to make a link so your regular visitors can jump straight to the hot stories. In ExpressionEngine, you always have many options for implementation, each with subtle differences in behavior.</p>
+
+<p>For example, you could use a &#8220;Featured&#8221; status and filter based on that. But statuses don&#8217;t affect the sort order, so to keep them at the top, you&#8217;d have to use a separate Channel Entries tag. That&#8217;s okay, but if the number of articles is variable and you&#8217;ve got a complex layout, it can get tricky.</p>
+
+<p>Sticky is perfect in this case, but previously you&#8217;d have to &#8220;cut&#8221; the listings using <code>limit=''</code>, which means placing that same limitation on your content authors. <code>limit='5'</code>, instruct them to just pick 5 stories, no more no less, and their &#8220;hot stories&#8221; are fine. But if they pick more than 5, then the excess won&#8217;t show up. If they pick fewer than 5, then normal stories get included with the &#8220;hot&#8221; ones.</p>
+
+<p>With this new filter:</p>
+
+<div class="codeblock"><pre><code>&#123;exp:channel:entries channel='news' sticky='only'&#125;
+</code></pre></div>
+
+<p>Now you can create a listing that <em>only</em> contains your must-read content, without setting limits on your content authors.</p>
+
+<h2><code>search:numeric_field=''</code></h2>
+
+<p>The last new unsung parametric hero of ExpressionEngine 4 is an update to the venerable <code>search:field=''</code> parameter. For numeric fields, you&#8217;ve always been able to use basic comparison operators. To show items that are $10 or less: <code>search:price='&lt;=10'</code>. ExpressionEngine 4 expands on this by allowing you to specify <em>ranges</em>.</p>
+
+<div class="codeblock"><pre><code>&#123;!-- show me Middle Schoolers --&#125;
+&#123;exp:channel:entries channel='students' search:grade='&gt;5|&lt;9'&#125;
+</code></pre></div>
+
+<p>Now the filter will show all students from grades 6, 7, and 8.</p>
+
+<p>This also works for <em>custom date fields</em>. Since date fields are stored in <a href="https://en.wikipedia.org/wiki/Unix_time">Unix time</a>, you can perform numeric range checks just as easily.</p>
+
+<div class="codeblock"><pre><code>&#123;!-- show everyone who signed up to take their ACT from February through April 2018 --&#125;
+&#123;exp:channel:entries channel='students' search:act_date='&gt;1517443200|&lt;1525132800'&#125;
+</code></pre></div>
+
+<p>I find <a href="https://www.unixtimestamp.com/">unixtimestamp.com</a> helpful to define timestamps, and I use ExpressionEngine template comments to remind myself of the human readable date.</p>
+
+<p>And there you have it. Three simple but powerful filtering options now available in ExpressionEngine 4. We hope they help you solve challenges more easily than ever!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:4:"date";s:29:"Mon, 22 Oct 2018 12:17:07 GMT";s:6:"server";s:6:"Apache";s:10:"set-cookie";s:677:"exp_last_visit=1224850627; expires=Tue, 22-Oct-2019 12:17:07 GMT; Max-Age=31536000; path=/; domain=.expressionengine.com; secure; HttpOnly, exp_last_activity=1540210627; expires=Tue, 22-Oct-2019 12:17:07 GMT; Max-Age=31536000; path=/; domain=.expressionengine.com; secure; HttpOnly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.expressionengine.com; secure; HttpOnly, exp_csrf_token=ebf99b70c11540d0d9339c335573cd1f117d1a7c; expires=Mon, 22-Oct-2018 14:17:07 GMT; Max-Age=7200; path=/; domain=.expressionengine.com; secure; HttpOnly, PHPSESSID=acf56a29b327d638f21018d2045e905f; path=/; domain=.expressionengine.com; secure; HttpOnly";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:7:"expires";s:29:"Fri, 14 Sep 2018 19:20:18 GMT";s:13:"last-modified";s:29:"Fri, 14 Sep 2018 18:20:18 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:25:"strict-transport-security";s:34:"max-age=7776000; includeSubDomains";s:12:"content-type";s:23:"text/xml; charset=utf-8";}s:5:"build";s:14:"20181002135318";}}

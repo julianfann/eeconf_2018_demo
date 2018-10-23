@@ -1,0 +1,20 @@
+<div class="blog_article__related">
+    <h4 class="blog_article__related__headline">More Hot Chicken</h4>
+    <div class="blog_article__related__items">
+        {exp:channel:entries
+            channel="blog"
+            limit="3"
+            dynamic="no"
+            entry_id="not {embed:entry_id}"
+        }
+            <div class="blog_article__related__item">
+                <div class="blog_article__related__item__image">
+                    <a href="/blog/{url_title}"><img src="{image}" alt=""></a>
+                </div>
+
+                <h5 class="blog_article__related__item__title"><a href="/blog/{url_title}">{title}</a></h5>
+            </div>
+        {/exp:channel:entries}
+    </div>
+</div>
+

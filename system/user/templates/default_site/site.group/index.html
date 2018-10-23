@@ -1,0 +1,13 @@
+{layout="site/_layout"}
+
+{layout:set name='title'}{site_name}{/layout:set}
+
+{exp:channel:entries
+    channel="blog"
+    limit="10"
+}
+    {embed="blog/_article_1"
+        single="no"
+        entry_id="{entry_id}"
+    }
+{/exp:channel:entries}

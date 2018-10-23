@@ -1,0 +1,13 @@
+{exp:hot_comments:get entry_id="{embed:entry_id}"}
+
+    {if !no_results}
+        <div class="blog_article__comments__list__item">
+            <div class="blog_article__comments__list__item__meta">
+                <h6 class="blog_article__comments__list__item__name">{name}</h6>
+                <div class="blog_article__comments__list__item__date">{date}</div>
+            </div>
+            <div class="blog_article__comments__list__item__message">{message}</div>
+        </div>
+    {/if}
+
+{/exp:hot_comments:get}

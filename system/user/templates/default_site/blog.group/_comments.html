@@ -1,0 +1,16 @@
+<div class="blog_article__comments">
+    <h4 class="blog_article__comments__headline">Comments {exp:hot_comments:count entry_id="{embed:entry_id}"}{if !no_results}({comment_count}){/if}{/exp:hot_comments:count}</h4>
+
+    <div class="blog_article__comments__form">
+        {embed="blog/_comments_form"
+            entry_id="{embed:entry_id}"
+            title="{embed:title}"
+        }
+    </div>
+
+    <div class="blog_article__comments__list">
+        {embed="blog/_comments_list"
+            entry_id="{embed:entry_id}"
+        }
+    </div>
+</div>

@@ -1,0 +1,47 @@
+{exp:channel:entries
+    channel="blog"
+    limit="1"
+    dynamic="no"
+    entry_id="{embed:entry_id}"
+}
+<article class="blog_article">
+    <div class="blog_article_image">
+        <a href="/blog/{url_title}"><img src="{image}" alt=""></a>
+    </div>
+
+    <h3 class="blog_article__title"><a href="/blog/{url_title}">{title}</a></h3>
+
+    {if embed:single == "yes"}
+        <div class="blog_article__body">
+            {body}
+        </div>
+
+        <div class="blog_article_meta">
+            Posted by {author} on {entry_date format="%m/%d/%Y"}
+        </div>
+
+        {embed="blog/_related_articles"
+            entry_id="{embed:entry_id}"
+        }
+
+        {embed="blog/_comments"
+            entry_id="{embed:entry_id}"
+            title="{title}"
+        }
+    {/if}
+
+    {if embed:single != "yes"}
+        <div class="blog_article__excerpt">
+            {exp:trunk:truncate}
+                {body}
+            {/exp:trunk:truncate}
+        </div>
+
+        <a href="/blog/{url_title}" class="blog_article__read_more">Read More</a>
+
+        <div class="blog_article_meta">
+            Posted by {author} on {entry_date format="%m/%d/%Y"}
+        </div>
+    {/if}
+</article>
+{/exp:channel:entries}
