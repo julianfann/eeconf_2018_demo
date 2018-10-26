@@ -32,9 +32,9 @@
 
     {if embed:single != "yes"}
         <div class="blog_article__excerpt">
-            {exp:trunk:truncate}
+            {exp:trunk_ns:truncate}
                 {body}
-            {/exp:trunk:truncate}
+            {/exp:trunk_ns:truncate}
         </div>
 
         <a href="/blog/{url_title}" class="blog_article__read_more">Read More</a>
